@@ -118,6 +118,10 @@ set directory=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
 set writebackup
 " }}}
 
+" SCREEPS {{{
+set filetype=screeps
+" }}}
+
 " ORGANIZATION {{{
 set modelines=2
 " vim:foldmethod=marker:foldlevel=0
